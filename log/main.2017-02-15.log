@@ -1,0 +1,3 @@
+2017/02/15 18:15:55  INFO [controller.(*Logic).Run](logic.go:41) server starting on[:8384]..
+2017/02/15 18:20:09  INFO [controller.(*Logic).Run](logic.go:45) server starting on[:8384]..
+2017/02/15 18:38:42  INFO [controller.(*Logic).Run](logic.go:45) server starting on[:8384]..

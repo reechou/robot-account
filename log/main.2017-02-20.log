@@ -1,0 +1,157 @@
+2017/02/20 10:18:15  INFO [controller.(*Logic).Run](logic.go:78) server starting on[:8384]..
+2017/02/20 10:18:15  INFO [controller.(*Logic).Run] (logic.go:79) - listen tcp :8384: bind: address already in use
+2017/02/20 10:18:32  INFO [controller.(*Logic).Run](logic.go:78) server starting on[:8384]..
+2017/02/20 11:38:17 ERROR [controller.(*Logic).CreateWxCircle](robot_wxcircle_endpoint.go:38) create wx circle error: robot wx circle words[] cannot be nil.
+2017/02/20 13:32:28 DEBUG [models.GetRobotFriendFromUserName](account.go:301) cannot find fx account from user_name[@a49f89941819ea0e673cdc6ee086e74f]
+2017/02/20 13:32:28  INFO [models.CreateRobotChat](chat.go:39) create robot chat robot[铅笔] user[Mr.REE] content[111] success.
+2017/02/20 13:32:41  INFO [models.CreateRobotChat](chat.go:39) create robot chat robot[铅笔] user[Mr.REE] content[斤斤计较经济] success.
+2017/02/20 13:33:00  INFO [controller.(*Logic).Run](logic.go:78) server starting on[:8384]..
+2017/02/20 13:33:11  INFO [models.CreateRobotChat](chat.go:41) create robot chat robot[铅笔] user[Mr.REE] content[沙发沙发] success.
+2017/02/20 13:33:28  INFO [models.CreateRobotChat](chat.go:41) create robot chat robot[铅笔] user[Mr.REE] content[收到一张图片,URL为临时地址,当前登录状态下有效] success.
+2017/02/20 13:40:50 DEBUG [models.GetRobotFriendFromUserName](account.go:301) cannot find fx account from user_name[@d7432d4adf48f8212c7a4de45e96ca4c]
+2017/02/20 13:40:50  INFO [models.CreateRobotChat](chat.go:41) create robot chat robot[铅笔] user[Mr.REE] content[2222] success.
+2017/02/20 13:41:23  INFO [models.CreateRobotChat](chat.go:41) create robot chat robot[铅笔] user[Mr.REE] content[收到一张图片,URL为临时地址,当前登录状态下有效] success.
+2017/02/20 13:49:29 DEBUG [models.GetRobotFriendFromUserName](account.go:301) cannot find fx account from user_name[@348a3a33b9b5cb85f38dba34c4ca0936]
+2017/02/20 13:49:29  INFO [models.CreateRobotChat](chat.go:41) create robot chat robot[铅笔] user[Mr.REE] content[收到一段视频,URL为临时地址,当前登录状态下有效] success.
+2017/02/20 14:13:20 DEBUG [models.GetRobotFriendFromUserName](account.go:301) cannot find fx account from user_name[@cf826502f572d57f83d128cfc6d5943870111069c3aa6850f1ce9b3eecbe5c5a]
+2017/02/20 14:13:20  INFO [models.CreateRobotChat](chat.go:41) create robot chat robot[铅笔] user[依依呀] content[哈喽，在干嘛] success.
+2017/02/20 14:17:21 ERROR [controller.(*Logic).GetRobotNewChatList](robot_friend_endpoint.go:359) GetRobotNewChatList json decode error: json: cannot unmarshal number 1487571431.148 into Go value of type int64
+2017/02/20 14:25:11 ERROR [models.CreateWxCircle](wx_circle.go:31) create wx circle error: Error 1146: Table 'robot_account.wx_circle' doesn't exist
+2017/02/20 14:25:11 ERROR [controller.(*Logic).CreateWxCircle](robot_wxcircle_endpoint.go:38) create wx circle error: Error 1146: Table 'robot_account.wx_circle' doesn't exist
+2017/02/20 14:25:33 ERROR [models.CreateWxCircle](wx_circle.go:31) create wx circle error: Error 1146: Table 'robot_account.wx_circle' doesn't exist
+2017/02/20 14:25:33 ERROR [controller.(*Logic).CreateWxCircle](robot_wxcircle_endpoint.go:38) create wx circle error: Error 1146: Table 'robot_account.wx_circle' doesn't exist
+2017/02/20 14:26:10  INFO [controller.(*Logic).Run](logic.go:78) server starting on[:8384]..
+2017/02/20 14:26:18  INFO [models.CreateWxCircle](wx_circle.go:34) create robot wx circle[ree is god] success.
+2017/02/20 14:34:19 DEBUG [models.GetRobotFriendFromUserName](account.go:302) cannot find fx account from user_name[@e7a4ff4f39de1c3b626070ef3ece755b]
+2017/02/20 14:34:19  INFO [models.CreateRobotChat](chat.go:41) create robot chat robot[铅笔] user[穷人孙] content[Chagall] success.
+2017/02/20 14:57:45  INFO [models.CreateTag](account_tag.go:29) create tag name[bb] success.
+2017/02/20 14:57:45  INFO [models.CreateAccountTag](account_tag.go:68) create account[Smile_定格] tag name[bb] success.
+2017/02/20 15:03:15  INFO [models.CreateAccountTag](account_tag.go:68) create account[Smile_定格] tag name[bb] success.
+2017/02/20 15:04:03  INFO [models.CreateAccountTag](account_tag.go:68) create account[那天] tag name[aa] success.
+2017/02/20 15:04:14  INFO [models.CreateTag](account_tag.go:29) create tag name[bbn] success.
+2017/02/20 15:04:14  INFO [models.CreateAccountTag](account_tag.go:68) create account[Smile_定格] tag name[bbn] success.
+2017/02/20 15:04:54  INFO [controller.(*Logic).Run](logic.go:78) server starting on[:8384]..
+2017/02/20 15:06:27  INFO [models.CreateTag](account_tag.go:29) create tag name[1591] success.
+2017/02/20 15:06:27  INFO [models.CreateAccountTag](account_tag.go:68) create account[杨龙] tag name[1591] success.
+2017/02/20 15:08:25 DEBUG [models.GetRobotFriendFromUserName](account.go:302) cannot find fx account from user_name[@9f3fcc2c43d10b4a8fbb52515ad3da55]
+2017/02/20 15:08:25  INFO [models.CreateRobotChat](chat.go:41) create robot chat robot[铅笔] user[Mr.REE] content[xxxx] success.
+2017/02/20 15:09:52 ERROR [controller.(*RobotExt).SendMsgs](robot_ext.go:65) json decode error: invalid character '<' looking for beginning of value
+2017/02/20 15:09:52 ERROR [controller.(*Logic).SendRobotMsg](robot_logic.go:133) send msgs of robot[invalid character '<' looking for beginning of value] error: %!v(MISSING)
+2017/02/20 15:09:52 ERROR [controller.(*Logic).SendTextMsg](robot_friend_endpoint.go:392) send robot msg error: invalid character '<' looking for beginning of value
+2017/02/20 15:12:13  INFO [controller.(*Logic).Run](logic.go:78) server starting on[:8384]..
+2017/02/20 15:12:14 ERROR [controller.(*RobotExt).SendMsgs](robot_ext.go:65) json decode error: invalid character '<' looking for beginning of value
+2017/02/20 15:12:14 ERROR [controller.(*Logic).SendRobotMsg](robot_logic.go:133) send msgs of robot[invalid character '<' looking for beginning of value] error: %!v(MISSING)
+2017/02/20 15:12:14 ERROR [controller.(*Logic).SendTextMsg](robot_friend_endpoint.go:392) send robot msg error: invalid character '<' looking for beginning of value
+2017/02/20 15:13:04  INFO [controller.(*Logic).Run](logic.go:78) server starting on[:8384]..
+2017/02/20 15:13:27 DEBUG [controller.(*RobotExt).SendMsgs](robot_ext.go:25) msg: &{[{铅笔 people Mr.REE @9f3fcc2c43d10b4a8fbb52515ad3da55 text god of ree}]}
+2017/02/20 15:13:27 ERROR [controller.(*RobotExt).SendMsgs](robot_ext.go:66) json decode error: invalid character '<' looking for beginning of value
+2017/02/20 15:13:27 ERROR [controller.(*Logic).SendRobotMsg](robot_logic.go:133) send msgs of robot[invalid character '<' looking for beginning of value] error: %!v(MISSING)
+2017/02/20 15:13:27 ERROR [controller.(*Logic).SendTextMsg](robot_friend_endpoint.go:392) send robot msg error: invalid character '<' looking for beginning of value
+2017/02/20 15:14:31  INFO [controller.(*Logic).Run](logic.go:78) server starting on[:8384]..
+2017/02/20 15:14:33 DEBUG [controller.(*RobotExt).SendMsgs](robot_ext.go:25) msg: &{[{铅笔 people Mr.REE @9f3fcc2c43d10b4a8fbb52515ad3da55 text god of ree}]}
+2017/02/20 15:14:33 ERROR [controller.(*RobotExt).SendMsgs](robot_ext.go:66) json decode error: invalid character '<' looking for beginning of value [<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /sendmsgs was not found on this server.</p>
+</body></html>
+]
+2017/02/20 15:14:33 ERROR [controller.(*Logic).SendRobotMsg](robot_logic.go:133) send msgs of robot[铅笔] error: invalid character '<' looking for beginning of value
+2017/02/20 15:14:33 ERROR [controller.(*Logic).SendTextMsg](robot_friend_endpoint.go:392) send robot msg error: invalid character '<' looking for beginning of value
+2017/02/20 15:16:48  INFO [controller.(*Logic).Run](logic.go:78) server starting on[:8384]..
+2017/02/20 15:19:12 DEBUG [controller.(*RobotExt).SendMsgs](robot_ext.go:25) msg: &{[{铅笔 people Mr.REE @9f3fcc2c43d10b4a8fbb52515ad3da55 text god of ree}]}
+2017/02/20 15:19:12 ERROR [controller.(*RobotExt).SendMsgs](robot_ext.go:66) json decode error: invalid character '<' looking for beginning of value [<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /sendmsgs was not found on this server.</p>
+</body></html>
+]
+2017/02/20 15:19:12 ERROR [controller.(*Logic).SendRobotMsg](robot_logic.go:133) send msgs of robot[铅笔] error: invalid character '<' looking for beginning of value
+2017/02/20 15:19:12 ERROR [controller.(*Logic).SendTextMsg](robot_friend_endpoint.go:392) send robot msg error: invalid character '<' looking for beginning of value
+2017/02/20 15:20:28 DEBUG [models.GetRobotFriendFromUserName](account.go:303) cannot find fx account from user_name[@51bcac4ea5c2dac1eb393ec193fb27bf]
+2017/02/20 15:20:28  INFO [models.CreateRobotChat](chat.go:41) create robot chat robot[铅笔] user[Mr.REE] content[沙发沙发] success.
+2017/02/20 15:20:45  INFO [controller.(*Logic).Run](logic.go:78) server starting on[:8384]..
+2017/02/20 15:20:50 DEBUG [controller.(*RobotExt).SendMsgs](robot_ext.go:25) msg: &{[{铅笔 people Mr.REE @9f3fcc2c43d10b4a8fbb52515ad3da55 text god of ree}]}
+2017/02/20 15:20:51 DEBUG [controller.(*Logic).SendRobotMsg](robot_logic.go:136) send robot[铅笔] msg[&{铅笔 people Mr.REE @9f3fcc2c43d10b4a8fbb52515ad3da55 text god of ree}] success.
+2017/02/20 15:24:17 DEBUG [controller.(*RobotExt).SendMsgs](robot_ext.go:25) msg: &{[{铅笔 people Mr.REE @9f3fcc2c43d10b4a8fbb52515ad3da55 text god of ree}]}
+2017/02/20 15:24:17 DEBUG [controller.(*Logic).SendRobotMsg](robot_logic.go:136) send robot[铅笔] msg[&{铅笔 people Mr.REE @9f3fcc2c43d10b4a8fbb52515ad3da55 text god of ree}] success.
+2017/02/20 15:25:10 DEBUG [controller.(*RobotExt).SendMsgs](robot_ext.go:25) msg: &{[{铅笔 people Mr.REE @9f3fcc2c43d10b4a8fbb52515ad3da55 text god of ree}]}
+2017/02/20 15:25:10 DEBUG [controller.(*Logic).SendRobotMsg](robot_logic.go:136) send robot[铅笔] msg[&{铅笔 people Mr.REE @9f3fcc2c43d10b4a8fbb52515ad3da55 text god of ree}] success.
+2017/02/20 15:25:39 DEBUG [models.GetRobotFriendFromUserName](account.go:303) cannot find fx account from user_name[@bc721c8698fddf857a90936b610a0f50]
+2017/02/20 15:25:39  INFO [models.CreateRobotChat](chat.go:41) create robot chat robot[铅笔] user[Mr.REE] content[下、] success.
+2017/02/20 15:25:59 DEBUG [controller.(*RobotExt).SendMsgs](robot_ext.go:25) msg: &{[{铅笔 people Mr.REE @bc721c8698fddf857a90936b610a0f50 text god of ree}]}
+2017/02/20 15:26:00 DEBUG [controller.(*Logic).SendRobotMsg](robot_logic.go:136) send robot[铅笔] msg[&{铅笔 people Mr.REE @bc721c8698fddf857a90936b610a0f50 text god of ree}] success.
+2017/02/20 15:34:24 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:49) robot[铅笔] send msg[ggg<br/>] to friend[Mr.REE]
+2017/02/20 15:46:33  INFO [controller.(*Logic).Run](logic.go:78) server starting on[:8384]..
+2017/02/20 15:46:51  INFO [models.CreateRobotChat](chat.go:41) create robot chat robot[铅笔] user[Mr.REE] content[gggg] success.
+2017/02/20 15:47:07 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:49) robot[铅笔] send msg[saaaa] to friend[Mr.REE]
+2017/02/20 15:47:07  INFO [models.CreateRobotChat](chat.go:41) create robot chat robot[铅笔] user[铅笔] content[saaaa] success.
+2017/02/20 15:48:31  INFO [models.CreateWxCircle](wx_circle.go:34) create robot wx circle[测试] success.
+2017/02/20 15:52:31 ERROR [controller.(*Logic).CreateWxCircle](robot_wxcircle_endpoint.go:38) create wx circle error: robot wx circle words cannot be nil.
+2017/02/20 15:57:53  INFO [models.CreateWxCircle](wx_circle.go:34) create robot wx circle[测试二] success.
+2017/02/20 15:59:29  INFO [controller.(*Logic).Run](logic.go:78) server starting on[:8384]..
+2017/02/20 15:59:35 DEBUG [controller.(*RobotExt).SendMsgs](robot_ext.go:25) msg: &{[{铅笔 people Mr.REE @bc721c8698fddf857a90936b610a0f50 text god of ree}]}
+2017/02/20 15:59:37 DEBUG [controller.(*Logic).SendRobotMsg](robot_logic.go:165) send robot[铅笔] msg[&{铅笔 people Mr.REE @bc721c8698fddf857a90936b610a0f50 text god of ree}] success.
+2017/02/20 15:59:37  INFO [models.CreateRobotChat](chat.go:48) create robot chat robot[铅笔] user[铅笔] content[god of ree] success.
+2017/02/20 16:00:02  INFO [models.CreateWxCircle](wx_circle.go:34) create robot wx circle[测试三] success.
+2017/02/20 16:00:20  INFO [models.CreateRobotChat](chat.go:48) create robot chat robot[铅笔] user[Mr.REE] content[gggg] success.
+2017/02/20 16:00:33 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:49) robot[铅笔] send msg[啊啊啊] to friend[Mr.REE]
+2017/02/20 16:00:33  INFO [models.CreateRobotChat](chat.go:48) create robot chat robot[铅笔] user[铅笔] content[啊啊啊] success.
+2017/02/20 16:03:30  INFO [models.CreateWxCircle](wx_circle.go:34) create robot wx circle[测试四] success.
+2017/02/20 16:06:05  INFO [controller.(*Logic).Run](logic.go:78) server starting on[:8384]..
+2017/02/20 16:08:28 DEBUG [controller.(*RobotExt).SendMsgs](robot_ext.go:25) msg: &{[{铅笔 people Mr.REE @bc721c8698fddf857a90936b610a0f50 text god of ree}]}
+2017/02/20 16:08:28 DEBUG [controller.(*Logic).SendRobotMsg](robot_logic.go:165) send robot[铅笔] msg[&{铅笔 people Mr.REE @bc721c8698fddf857a90936b610a0f50 text god of ree}] success.
+2017/02/20 16:08:28  INFO [models.CreateRobotChat](chat.go:48) create robot chat robot[铅笔] user[铅笔] content[god of ree] success.
+2017/02/20 16:09:23  INFO [models.CreateRobotChat](chat.go:48) create robot chat robot[铅笔] user[Mr.REE] content[思念] success.
+2017/02/20 16:12:15  INFO [controller.(*Logic).Run](logic.go:78) server starting on[:8384]..
+2017/02/20 16:12:51 DEBUG [controller.(*RobotExt).SendMsgs](robot_ext.go:25) msg: &{[{铅笔 people Mr.REE @bc721c8698fddf857a90936b610a0f50 text god of ree}]}
+2017/02/20 16:12:51 DEBUG [controller.(*Logic).SendRobotMsg](robot_logic.go:165) send robot[铅笔] msg[&{铅笔 people Mr.REE @bc721c8698fddf857a90936b610a0f50 text god of ree}] success.
+2017/02/20 16:12:51  INFO [models.CreateRobotChat](chat.go:48) create robot chat robot[铅笔] user[铅笔] content[god of ree] success.
+2017/02/20 16:13:22 DEBUG [controller.(*RobotExt).SendMsgs](robot_ext.go:25) msg: &{[{铅笔 people Mr.REE @bc721c8698fddf857a90936b610a0f50 text god of ree}]}
+2017/02/20 16:13:22 DEBUG [controller.(*Logic).SendRobotMsg](robot_logic.go:165) send robot[铅笔] msg[&{铅笔 people Mr.REE @bc721c8698fddf857a90936b610a0f50 text god of ree}] success.
+2017/02/20 16:13:22  INFO [models.CreateRobotChat](chat.go:48) create robot chat robot[铅笔] user[铅笔] content[god of ree] success.
+2017/02/20 16:13:26 DEBUG [controller.(*RobotExt).SendMsgs](robot_ext.go:25) msg: &{[{铅笔 people Mr.REE @bc721c8698fddf857a90936b610a0f50 text god of ree}]}
+2017/02/20 16:13:27 DEBUG [controller.(*Logic).SendRobotMsg](robot_logic.go:165) send robot[铅笔] msg[&{铅笔 people Mr.REE @bc721c8698fddf857a90936b610a0f50 text god of ree}] success.
+2017/02/20 16:13:27  INFO [models.CreateRobotChat](chat.go:48) create robot chat robot[铅笔] user[铅笔] content[god of ree] success.
+2017/02/20 16:16:29 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:49) robot[铅笔] send msg[收到一段视频,URL为临时地址,当前登录状态下有效(访问需带上cookie)] to friend[]
+2017/02/20 16:16:29 DEBUG [models.GetRobotFriendFromUserName](account.go:303) cannot find fx account from user_name[@@a63c36f37e09584b1f592aa45e7b108bd73d6669a00cf431c6c12ed5d2382bd1]
+2017/02/20 16:16:29 DEBUG [models.GetRobotFriend](account.go:291) cannot find robot frined from unionid[铅笔-]
+2017/02/20 16:16:29 ERROR [controller.(*Logic).getRobotFriend](robot_logic.go:146) cannot found this[铅笔 @@a63c36f37e09584b1f592aa45e7b108bd73d6669a00cf431c6c12ed5d2382bd1 ] account
+2017/02/20 16:16:29 ERROR [controller.(*Logic).addRobotChatFromRobot](robot_logic.go:82) get msg robot friend error: cannot found msg account.
+2017/02/20 16:18:30 DEBUG [models.GetRobotFriendFromUserName](account.go:303) cannot find fx account from user_name[@7bad7e8687ee326a6cc526cce5ed7918]
+2017/02/20 16:18:30  INFO [models.CreateRobotChat](chat.go:48) create robot chat robot[铅笔] user[Mr.REE] content[你好啊] success.
+2017/02/20 16:18:30  INFO [models.CreateRobotChat](chat.go:48) create robot chat robot[铅笔] user[Mr.REE] content[亲] success.
+2017/02/20 16:20:26  INFO [models.CreateWxCircle](wx_circle.go:44) create robot wx circle[测试1] success.
+2017/02/20 16:23:41  INFO [models.CreateWxCircle](wx_circle.go:44) create robot wx circle[ceshi] success.
+2017/02/20 16:28:46  INFO [models.CreateWxCircle](wx_circle.go:44) create robot wx circle[ceshi] success.
+2017/02/20 16:51:41 ERROR [controller.(*Logic).CreateWxCircleSetting](robot_wxcircle_endpoint.go:161) CreateWxCircleSetting json decode error: json: cannot unmarshal string into Go value of type int64
+2017/02/20 16:52:34 ERROR [controller.(*Logic).CreateWxCircleSetting](robot_wxcircle_endpoint.go:161) CreateWxCircleSetting json decode error: json: cannot unmarshal string into Go value of type int64
+2017/02/20 16:53:05 ERROR [controller.(*Logic).CreateWxCircleSetting](robot_wxcircle_endpoint.go:161) CreateWxCircleSetting json decode error: json: cannot unmarshal string into Go value of type int64
+2017/02/20 16:53:43 ERROR [controller.(*Logic).CreateWxCircleSetting](robot_wxcircle_endpoint.go:161) CreateWxCircleSetting json decode error: json: cannot unmarshal string into Go value of type int64
+2017/02/20 16:54:35 ERROR [controller.(*Logic).CreateWxCircleSetting](robot_wxcircle_endpoint.go:161) CreateWxCircleSetting json decode error: json: cannot unmarshal string into Go value of type int64
+2017/02/20 16:56:26 ERROR [models.CreateWxCircleSettingList](wx_circle.go:99) create wx circle setting list error: Error 1264: Out of range value for column 'send_time' at row 1
+2017/02/20 16:56:26 ERROR [controller.(*Logic).CreateWxCircleSetting](robot_wxcircle_endpoint.go:175) create wc circle setting list error: Error 1264: Out of range value for column 'send_time' at row 1
+2017/02/20 17:03:22 ERROR [controller.(*Logic).GetWxCircleSettingList](robot_wxcircle_endpoint.go:217) GetWxCircleSettingList json decode error: json: cannot unmarshal string into Go value of type int64
+2017/02/20 17:31:30  INFO [models.CreateTag](account_tag.go:29) create tag name[啊] success.
+2017/02/20 17:31:30  INFO [models.CreateAccountTag](account_tag.go:68) create account[Smile_定格] tag name[啊] success.
+2017/02/20 17:34:35  INFO [controller.(*Logic).Run](logic.go:78) server starting on[:8384]..
+2017/02/20 17:45:48  INFO [controller.(*Logic).Run](logic.go:78) server starting on[:8385]..
+2017/02/20 17:47:37  INFO [controller.(*Logic).Run](logic.go:78) server starting on[:8385]..
+2017/02/20 17:47:40 DEBUG [controller.(*Logic).GetRobotFriendList] (robot_friend_endpoint.go:73) - map[22:[{5 10 22 Smile_定格 5 aa 1487335845}] 24:[{8 10 24 那天 5 aa 1487574243}]]
+2017/02/20 17:49:08  INFO [controller.(*Logic).Run](logic.go:78) server starting on[:8385]..
+2017/02/20 17:49:09 DEBUG [controller.(*Logic).GetRobotFriendList] (robot_friend_endpoint.go:71) - map[22:[{5 10 22 Smile_定格 5 aa 1487335845} {6 10 22 Smile_定格 6 bb 1487573865} {7 10 22 Smile_定格 6 bb 1487574195} {9 10 22 Smile_定格 7 bbn 1487574254} {11 10 22 Smile_定格 9 啊 1487583090}] 24:[{8 10 24 那天 5 aa 1487574243}]]
+2017/02/20 17:50:13  INFO [controller.(*Logic).Run](logic.go:78) server starting on[:8384]..
+2017/02/20 17:50:37  INFO [models.CreateTag](account_tag.go:29) create tag name[a aaa] success.
+2017/02/20 17:50:37  INFO [models.CreateAccountTag](account_tag.go:68) create account[那天] tag name[a aaa] success.
+2017/02/20 18:04:16  INFO [controller.(*Logic).Run](logic.go:79) server starting on[:8384]..
+2017/02/20 18:18:17  INFO [controller.(*Logic).Run](logic.go:79) server starting on[:8384]..
+2017/02/20 18:51:37  INFO [models.CreateWxCircle](wx_circle.go:44) create robot wx circle[] success.
+2017/02/20 18:51:42  INFO [models.CreateWxCircle](wx_circle.go:44) create robot wx circle[] success.
+2017/02/20 19:11:29 DEBUG [controller.(*RobotExt).SendMsgs](robot_ext.go:25) msg: &{[{铅笔 people 穷人孙 @e7a4ff4f39de1c3b626070ef3ece755b text hi}]}
+2017/02/20 19:11:32 DEBUG [controller.(*Logic).SendRobotMsg](robot_logic.go:165) send robot[铅笔] msg[&{铅笔 people 穷人孙 @e7a4ff4f39de1c3b626070ef3ece755b text hi}] success.
+2017/02/20 19:11:32  INFO [models.CreateRobotChat](chat.go:48) create robot chat robot[铅笔] user[铅笔] content[hi] success.
+2017/02/20 20:08:17 DEBUG [models.GetRobotFriendFromUserName](account.go:303) cannot find fx account from user_name[@009a614ef37bee551718cd1348403f41]
+2017/02/20 20:08:17  INFO [models.CreateRobotChat](chat.go:48) create robot chat robot[铅笔] user[穷人孙] content[我的] success.

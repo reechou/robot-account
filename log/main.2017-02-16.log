@@ -1,0 +1,164 @@
+2017/02/16 14:17:02  INFO [controller.(*Logic).Run](logic.go:46) server starting on[:8384]..
+2017/02/16 14:18:53  INFO [controller.(*Logic).Run](logic.go:45) server starting on[:8384]..
+2017/02/16 14:31:14  INFO [models.CreateRobotFriend](account.go:55) create robot friend robot[群主助手] name[Mr.REE] success.
+2017/02/16 14:32:44 DEBUG [models.GetRobotFriendFromUserName](account.go:90) cannot find fx account from user_name[@0501e6f7bfd1d1c2535b24ba4048344b68c3eb8656b85c56e92d54ff370e719d]
+2017/02/16 14:32:44 DEBUG [models.GetRobotFriend](account.go:78) cannot find robot frined from unionid[群主助手-]
+2017/02/16 14:32:44 ERROR [controller.(*Logic).getRobotFriend](robot_logic.go:88) cannot found this[&{{2742595159 群主助手 receivemsg people @0501e6f7bfd1d1c2535b24ba4048344b68c3eb8656b85c56e92d54ff370e719d  } {      0 } 1}] account
+2017/02/16 14:32:44 ERROR [controller.(*Logic).AddRobotChat](robot_logic.go:41) get msg robot friend error: cannot found msg account.
+2017/02/16 14:32:55 DEBUG [models.GetRobotFriendFromUserName](account.go:90) cannot find fx account from user_name[@0501e6f7bfd1d1c2535b24ba4048344b68c3eb8656b85c56e92d54ff370e719d]
+2017/02/16 14:32:55 DEBUG [models.GetRobotFriend](account.go:78) cannot find robot frined from unionid[群主助手-]
+2017/02/16 14:32:55 ERROR [controller.(*Logic).getRobotFriend](robot_logic.go:88) cannot found this[&{{2742595159 群主助手 receivemsg people @0501e6f7bfd1d1c2535b24ba4048344b68c3eb8656b85c56e92d54ff370e719d  } {      0 } 2}] account
+2017/02/16 14:32:55 ERROR [controller.(*Logic).AddRobotChat](robot_logic.go:41) get msg robot friend error: cannot found msg account.
+2017/02/16 14:33:32  INFO [models.CreateRobotChat](chat.go:33) create robot chat robot[群主助手] user[Mr.REE] content[1] success.
+2017/02/16 14:35:36 DEBUG [models.GetRobotFriendFromUserName](account.go:90) cannot find fx account from user_name[@0501e6f7bfd1d1c2535b24ba4048344b68c3eb8656b85c56e92d54ff370e719d]
+2017/02/16 14:35:36 DEBUG [models.GetRobotFriend](account.go:78) cannot find robot frined from unionid[群主助手-]
+2017/02/16 14:35:36 ERROR [controller.(*Logic).getRobotFriend](robot_logic.go:88) cannot found this[&{{2742595159 群主助手 receivemsg people @0501e6f7bfd1d1c2535b24ba4048344b68c3eb8656b85c56e92d54ff370e719d  } {      0 } aaa}] account
+2017/02/16 14:35:36 ERROR [controller.(*Logic).AddRobotChat](robot_logic.go:41) get msg robot friend error: cannot found msg account.
+2017/02/16 14:59:21 DEBUG [models.GetRobotFriendFromUserName](account.go:90) cannot find fx account from user_name[@b2af0738ac8acdd88bbb98e4bbd364da]
+2017/02/16 14:59:21  INFO [models.CreateRobotChat](chat.go:33) create robot chat robot[群主助手] user[Mr.REE] content[1] success.
+2017/02/16 14:59:43 DEBUG [models.GetRobotFriendFromUserName](account.go:90) cannot find fx account from user_name[@d16034e21c33015d86b6c21cf32444abe1bf25e686570b25709b29159f4405c5]
+2017/02/16 14:59:43 DEBUG [models.GetRobotFriend](account.go:78) cannot find robot frined from unionid[群主助手-群主助手]
+2017/02/16 14:59:43 ERROR [controller.(*Logic).getRobotFriend](robot_logic.go:88) cannot found this[&{{2742595159 群主助手 receivemsg people @d16034e21c33015d86b6c21cf32444abe1bf25e686570b25709b29159f4405c5 群主助手 } {      0 } aaa}] account
+2017/02/16 14:59:43 ERROR [controller.(*Logic).AddRobotChat](robot_logic.go:41) get msg robot friend error: cannot found msg account.
+2017/02/16 15:13:32  INFO [controller.(*Logic).Run](logic.go:45) server starting on[:8384]..
+2017/02/16 15:14:19 ERROR [models.CreateRobotChat](chat.go:35) create robot chat error: Error 1146: Table 'robot_account.robot_chat_5' doesn't exist
+2017/02/16 15:14:19 ERROR [controller.(*Logic).AddRobotChat](robot_logic.go:53) create robot chat error: Error 1146: Table 'robot_account.robot_chat_5' doesn't exist
+2017/02/16 15:17:20  INFO [controller.(*Logic).Run](logic.go:45) server starting on[:8384]..
+2017/02/16 15:19:32  INFO [controller.(*Logic).Run](logic.go:45) server starting on[:8384]..
+2017/02/16 15:20:21  INFO [models.CreateRobotChat](chat.go:38) create robot chat robot[群主助手] user[Mr.REE] content[1] success.
+2017/02/16 15:20:59  INFO [models.CreateRobotChat](chat.go:38) create robot chat robot[群主助手] user[Mr.REE] content[hihihihihi’] success.
+2017/02/16 15:21:12  INFO [models.CreateRobotChat](chat.go:38) create robot chat robot[群主助手] user[Mr.REE] content[[乒乓][乒乓][乒乓][乒乓][乒乓]] success.
+2017/02/16 15:21:21  INFO [models.CreateRobotChat](chat.go:38) create robot chat robot[群主助手] user[Mr.REE] content[cacacacaca] success.
+2017/02/16 15:21:36  INFO [models.CreateRobotChat](chat.go:38) create robot chat robot[群主助手] user[Mr.REE] content[fasl;kafskljj算了放假了撒减肥萨拉放假少了几分sal;fjalsjflasjflaj啊死了放假啦开始减肥是否老师放假啊死了积分算了] success.
+2017/02/16 15:21:49  INFO [models.CreateRobotChat](chat.go:38) create robot chat robot[群主助手] user[Mr.REE] content[Hi,我是“便宜淘”,当今最牛逼的淘宝返利机器人。<br/>通过我不仅可以自动找到内部优惠券，还可以领取返利，平均帮您优惠30%-60%，一年省下1000元。<br/><br/>优惠只需以下4步:<br/>第1步:【手机淘宝】上选择你要购买的商品，点击[分享]-[复制链接]发送给我<br/>第2步:我就会帮你查到这个商品的所有可用优惠券和返现<br/>第3步:长按复制返回的消息，打开【手机淘宝】领券购买<br/>第4步:交易成功后获得返现<br/><br/>*偷偷告诉你,将我的名片分享给小伙伴,您的小伙伴也将自动成为您的下线，您就可以额外获得他购买商品返现的20%哦。<br/>详细功能查询请回复：“6”或“帮助”<br/>点击下方链接了解具体规则。<br/>http://t.cn/RJwZCu0] success.
+2017/02/16 15:35:11  INFO [controller.(*Logic).Run](logic.go:45) server starting on[:8384]..
+2017/02/16 15:36:10 DEBUG [models.GetRobot](account.go:26) cannot find robot from robot_wx[群主助手]
+2017/02/16 15:39:25  INFO [controller.(*Logic).Run](logic.go:45) server starting on[:8384]..
+2017/02/16 15:40:26 DEBUG [models.GetRobotFriendFromUserName](account.go:108) cannot find fx account from user_name[@8f9006e34d06b20bdcf5cfa79a81f5d4]
+2017/02/16 15:40:26 DEBUG [models.GetRobotFriend](account.go:96) cannot find robot frined from unionid[群主助手-Mr.REE]
+2017/02/16 15:40:26 ERROR [controller.(*Logic).getRobotFriend](robot_logic.go:96) cannot found this[&{{2742595159 @bf6c1e7336ab8d8de01f678df86304d220439dd04fd37390d4509d9ebb29b705 群主助手 receivemsg people @8f9006e34d06b20bdcf5cfa79a81f5d4 Mr.REE } {  } {      0 } 1}] account
+2017/02/16 15:40:26 ERROR [controller.(*Logic).AddRobotChat](robot_logic.go:49) get msg robot friend error: cannot found msg account.
+2017/02/16 15:46:16  INFO [controller.(*Logic).Run](logic.go:45) server starting on[:8384]..
+2017/02/16 15:46:24  INFO [models.CreateRobotChat](chat.go:38) create robot chat robot[群主助手] user[Mr.REE] content[zzzzz] success.
+2017/02/16 15:47:12  INFO [models.CreateRobotChat](chat.go:38) create robot chat robot[群主助手] user[Mr.REE] content[而啊哇塞] success.
+2017/02/16 15:50:06  INFO [controller.(*Logic).Run](logic.go:45) server starting on[:8384]..
+2017/02/16 15:50:20 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[群主助手] send msg[aa<br/>] to friend[Mr.REE]
+2017/02/16 15:50:30 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[群主助手] send msg[扭扭捏捏扭扭捏捏] to friend[Mr.REE]
+2017/02/16 17:05:39  INFO [controller.(*Logic).Run](logic.go:48) server starting on[:8384]..
+2017/02/16 17:06:15  INFO [controller.(*Logic).Run](logic.go:48) server starting on[:8384]..
+2017/02/16 17:07:36  INFO [models.CreateRobotGroup](account.go:30) create robot group name[便宜淘] success.
+2017/02/16 17:32:31  INFO [models.CreateRobotGroup](account.go:30) create robot group name[便宜淘1] success.
+2017/02/16 17:35:26  INFO [models.CreateRobotGroup](account.go:30) create robot group name[吖吖] success.
+2017/02/16 17:55:23  INFO [models.CreateRobotGroup](account.go:30) create robot group name[便宜淘2] success.
+2017/02/16 17:58:24  INFO [models.CreateRobotGroup](account.go:30) create robot group name[所有机器人] success.
+2017/02/16 17:58:31  INFO [models.CreateRobotGroup](account.go:30) create robot group name[所有机器人] success.
+2017/02/16 18:04:06  INFO [controller.(*Logic).Run](logic.go:50) server starting on[:8384]..
+2017/02/16 18:04:56  INFO [controller.(*Logic).Run](logic.go:50) server starting on[:8384]..
+2017/02/16 19:40:22 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[群主助手] send msg[朋友你好呀] to friend[卢玉红]
+2017/02/16 19:40:22 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[群主助手] send msg[朋友你好呀] to friend[宝宝]
+2017/02/16 19:40:22 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[群主助手] send msg[朋友你好呀] to friend[]
+2017/02/16 19:40:22 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[群主助手] send msg[朋友你好呀] to friend[]
+2017/02/16 19:40:29 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[群主助手] send msg[我是优惠券群的群主小助手[害羞]] to friend[]
+2017/02/16 19:40:30 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[群主助手] send msg[我是优惠券群的群主小助手[害羞]] to friend[]
+2017/02/16 19:40:30 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[群主助手] send msg[我是优惠券群的群主小助手[害羞]] to friend[宝宝]
+2017/02/16 19:40:30 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[群主助手] send msg[我是优惠券群的群主小助手[害羞]] to friend[卢玉红]
+2017/02/16 19:40:38  INFO [models.CreateRobotChat](chat.go:38) create robot chat robot[群主助手] user[宝宝] content[你好] success.
+2017/02/16 19:40:46 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[群主助手] send msg[我这边推荐给你一个淘宝返利的平台，可以自己查询商品的优惠券了，而且买淘宝上的所有商品都有返现哦～感兴趣的话可以加一下我们客服的名片，纯免费的呢，可以试试。] to friend[]
+2017/02/16 19:40:46 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[群主助手] send msg[我这边推荐给你一个淘宝返利的平台，可以自己查询商品的优惠券了，而且买淘宝上的所有商品都有返现哦～感兴趣的话可以加一下我们客服的名片，纯免费的呢，可以试试。] to friend[卢玉红]
+2017/02/16 19:40:46 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[群主助手] send msg[我这边推荐给你一个淘宝返利的平台，可以自己查询商品的优惠券了，而且买淘宝上的所有商品都有返现哦～感兴趣的话可以加一下我们客服的名片，纯免费的呢，可以试试。] to friend[]
+2017/02/16 19:40:46 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[群主助手] send msg[我这边推荐给你一个淘宝返利的平台，可以自己查询商品的优惠券了，而且买淘宝上的所有商品都有返现哦～感兴趣的话可以加一下我们客服的名片，纯免费的呢，可以试试。] to friend[]
+2017/02/16 19:42:27 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[群主助手] send msg[我这边推荐给你一个淘宝返利的平台，可以自己查询商品的优惠券了，而且买淘宝上的所有商品都有返现哦～感兴趣的话可以加一下我们客服的名片，纯免费的呢，可以试试。] to friend[宝宝]
+2017/02/16 19:43:21 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[群主助手] send msg[朋友你好呀] to friend[]
+2017/02/16 19:43:22 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[群主助手] send msg[朋友你好呀] to friend[]
+2017/02/16 19:43:27 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[群主助手] send msg[我是优惠券群的群主小助手[害羞]] to friend[]
+2017/02/16 19:43:27 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[群主助手] send msg[我是优惠券群的群主小助手[害羞]] to friend[]
+2017/02/16 19:43:35 DEBUG [models.GetRobotFriendFromUserName](account.go:201) cannot find fx account from user_name[@803cf5aea78626205a290d3f69fe5bbfebd54f063073372bf181b15e0745fa74]
+2017/02/16 19:43:35 DEBUG [models.GetRobotFriend](account.go:189) cannot find robot frined from unionid[群主助手-]
+2017/02/16 19:43:35 ERROR [controller.(*Logic).getRobotFriend](robot_logic.go:110) cannot found this[&{{2742595159 @bf6c1e7336ab8d8de01f678df86304d220439dd04fd37390d4509d9ebb29b705 群主助手 receivemsg people @803cf5aea78626205a290d3f69fe5bbfebd54f063073372bf181b15e0745fa74  } {  } {      0 } 好}] account
+2017/02/16 19:43:35 ERROR [controller.(*Logic).AddRobotChat](robot_logic.go:53) get msg robot friend error: cannot found msg account.
+2017/02/16 19:43:35 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[群主助手] send msg[我这边推荐给你一个淘宝返利的平台，可以自己查询商品的优惠券了，而且买淘宝上的所有商品都有返现哦～感兴趣的话可以加一下我们客服的名片，纯免费的呢，可以试试。] to friend[]
+2017/02/16 19:43:35 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[群主助手] send msg[我这边推荐给你一个淘宝返利的平台，可以自己查询商品的优惠券了，而且买淘宝上的所有商品都有返现哦～感兴趣的话可以加一下我们客服的名片，纯免费的呢，可以试试。] to friend[]
+2017/02/16 19:44:12  INFO [models.CreateRobotChat](chat.go:38) create robot chat robot[群主助手] user[宝宝] content[好的，我先试试] success.
+2017/02/16 19:49:18  INFO [controller.(*Logic).Run](logic.go:53) server starting on[:8384]..
+2017/02/16 19:52:35  INFO [controller.(*Logic).Run](logic.go:53) server starting on[:8384]..
+2017/02/16 19:53:56 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[群主助手] send msg[1] to friend[便宜淘小金]
+2017/02/16 19:53:56  INFO [models.CreateRobotChat](chat.go:38) create robot chat robot[群主助手] user[便宜淘小金] content[正在查询中,请稍后...] success.
+2017/02/16 19:53:57  INFO [models.CreateRobotChat](chat.go:38) create robot chat robot[群主助手] user[便宜淘小金] content[Hi, 群主助手<br/>可提现积分: 40<br/>历史总积分: 40<br/>已提现积分: 0<br/>订单总数: 0<br/>待确认订单: 0<br/>待确认积分: 0<br/><br/>* 注: 100 积分 = 1 元] success.
+2017/02/16 19:54:03 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[群主助手] send msg[下线查询] to friend[便宜淘小金]
+2017/02/16 19:54:04  INFO [models.CreateRobotChat](chat.go:38) create robot chat robot[群主助手] user[便宜淘小金] content[正在查询中,请稍后...] success.
+2017/02/16 19:54:04  INFO [models.CreateRobotChat](chat.go:38) create robot chat robot[群主助手] user[便宜淘小金] content[下线总人数: 4<br/>下线列表(只显示最近20人):<br/>1. \u003cspan class="emoji emoji2600"\u003e\u003c/span\u003e玉杰\u003cspan class="emoji emoji2600"\u003e\u003c/span\u003e\u003cspan class="emoji emoji1f525"\u003e\u003c/span\u003e<br/>2. 嘟宝宝@丽<br/>3. 文Bo<br/>4. 陈榴娟] success.
+2017/02/16 19:57:15  INFO [controller.(*Logic).Run](logic.go:53) server starting on[:8384]..
+2017/02/16 19:58:01 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[群主助手] send msg[嗯嗯] to friend[宝宝]
+2017/02/16 20:00:49  INFO [models.CreateRobotGroup](account.go:30) create robot group name[便宜淘3] success.
+2017/02/16 20:02:42  INFO [models.CreateRobotGroup](account.go:30) create robot group name[便宜淘4] success.
+2017/02/16 20:05:20  INFO [models.CreateRobotGroup](account.go:30) create robot group name[便宜淘5] success.
+2017/02/16 20:06:37 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[群主助手] send msg[我这边推荐给你一个淘宝返利的平台，可以自己查询商品的优惠券了，而且买淘宝上的所有商品都有返现哦～感兴趣的话可以加一下我们客服的名片，纯免费的呢，可以试试。] to friend[]
+2017/02/16 20:06:59 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[群主助手] send msg[我这边推荐给你一个淘宝返利的平台，可以自己查询商品的优惠券了，而且买淘宝上的所有商品都有返现哦～感兴趣的话可以加一下我们客服的名片，纯免费的呢，可以试试。] to friend[]
+2017/02/16 20:10:34  INFO [controller.(*Logic).Run](logic.go:53) server starting on[:8384]..
+2017/02/16 20:12:01  INFO [controller.(*Logic).Run](logic.go:53) server starting on[:8384]..
+2017/02/16 20:16:32 DEBUG [models.GetRobotFriendFromUserName](account.go:239) cannot find fx account from user_name[@432ceb5550f3ec19e2085d42b5d5076102bcd6539a298e62def90653fa4ddb87]
+2017/02/16 20:16:32 DEBUG [models.GetRobotFriend](account.go:227) cannot find robot frined from unionid[群主助手-]
+2017/02/16 20:16:32 ERROR [controller.(*Logic).getRobotFriend](robot_logic.go:110) cannot found this[&{{2742595159 @bf6c1e7336ab8d8de01f678df86304d220439dd04fd37390d4509d9ebb29b705 群主助手 receivemsg people @432ceb5550f3ec19e2085d42b5d5076102bcd6539a298e62def90653fa4ddb87  } {  } {      0 } 谢谢}] account
+2017/02/16 20:16:32 ERROR [controller.(*Logic).AddRobotChat](robot_logic.go:53) get msg robot friend error: cannot found msg account.
+2017/02/16 20:16:35  INFO [models.CreateRobotFriend](account.go:166) create robot friend robot[群主助手] name[Mr.REE] success.
+2017/02/16 20:19:42  INFO [models.CreateRobotFriend](account.go:166) create robot friend robot[群主助手] name[穷人孙] success.
+2017/02/16 20:25:32  INFO [models.CreateRobotChat](chat.go:38) create robot chat robot[群主助手] user[Mr.REE] content[1] success.
+2017/02/16 20:25:58 DEBUG [models.GetRobotFriendFromUserName](account.go:239) cannot find fx account from user_name[@6d334374724d9bddfc5d38660f6b9df3459695e8619cddc1345036ab5091e92f]
+2017/02/16 20:25:58 DEBUG [models.GetRobotFriend](account.go:227) cannot find robot frined from unionid[群主助手-]
+2017/02/16 20:25:58 ERROR [controller.(*Logic).getRobotFriend](robot_logic.go:110) cannot found this[&{{2742595159 @bf6c1e7336ab8d8de01f678df86304d220439dd04fd37390d4509d9ebb29b705 群主助手 receivemsg people @6d334374724d9bddfc5d38660f6b9df3459695e8619cddc1345036ab5091e92f  } {  } {      0 } 啊}] account
+2017/02/16 20:25:58 ERROR [controller.(*Logic).AddRobotChat](robot_logic.go:53) get msg robot friend error: cannot found msg account.
+2017/02/16 20:36:27 ERROR [models.CreateRobotFriendList](account.go:177) create robot friend list error: Error 1062: Duplicate entry 'Mr.REE-jimmy' for key 'UQE_robot_friend_3_ROBOT_FRIEND'
+2017/02/16 20:36:27 ERROR [controller.(*Logic).RobotSaveFriends](robot_endpoint.go:52) Error robot save friends error: Error 1062: Duplicate entry 'Mr.REE-jimmy' for key 'UQE_robot_friend_3_ROBOT_FRIEND'
+2017/02/16 20:36:28 ERROR [models.CreateRobotFriendList](account.go:177) create robot friend list error: Error 1062: Duplicate entry 'Mr.REE-David' for key 'UQE_robot_friend_3_ROBOT_FRIEND'
+2017/02/16 20:36:28 ERROR [controller.(*Logic).RobotSaveFriends](robot_endpoint.go:52) Error robot save friends error: Error 1062: Duplicate entry 'Mr.REE-David' for key 'UQE_robot_friend_3_ROBOT_FRIEND'
+2017/02/16 20:36:28 ERROR [models.CreateRobotFriendList](account.go:177) create robot friend list error: Error 1406: Data too long for column 'name' at row 20
+2017/02/16 20:36:28 ERROR [controller.(*Logic).RobotSaveFriends](robot_endpoint.go:52) Error robot save friends error: Error 1406: Data too long for column 'name' at row 20
+2017/02/16 20:36:28 ERROR [models.CreateRobotFriendList](account.go:177) create robot friend list error: Error 1062: Duplicate entry 'Mr.REE-小吉' for key 'UQE_robot_friend_3_ROBOT_FRIEND'
+2017/02/16 20:36:28 ERROR [controller.(*Logic).RobotSaveFriends](robot_endpoint.go:52) Error robot save friends error: Error 1062: Duplicate entry 'Mr.REE-小吉' for key 'UQE_robot_friend_3_ROBOT_FRIEND'
+2017/02/16 20:36:28 ERROR [models.CreateRobotFriendList](account.go:177) create robot friend list error: Error 1062: Duplicate entry 'Mr.REE-西瓜<span class="emoji emoji1f349"></span>' for key 'UQE_robot_friend_3_ROBOT_FRIEND'
+2017/02/16 20:36:28 ERROR [controller.(*Logic).RobotSaveFriends](robot_endpoint.go:52) Error robot save friends error: Error 1062: Duplicate entry 'Mr.REE-西瓜<span class="emoji emoji1f349"></span>' for key 'UQE_robot_friend_3_ROBOT_FRIEND'
+2017/02/16 20:36:28 ERROR [models.CreateRobotFriendList](account.go:177) create robot friend list error: Error 1062: Duplicate entry 'Mr.REE-周' for key 'UQE_robot_friend_3_ROBOT_FRIEND'
+2017/02/16 20:36:28 ERROR [controller.(*Logic).RobotSaveFriends](robot_endpoint.go:52) Error robot save friends error: Error 1062: Duplicate entry 'Mr.REE-周' for key 'UQE_robot_friend_3_ROBOT_FRIEND'
+2017/02/17 10:47:04 ERROR [controller.(*Logic).GetRobotLowerFriendList](robot_endpoint.go:224) GetRobotLowerFriendList json decode error: json: cannot unmarshal string into Go value of type int64
+2017/02/17 10:47:08 ERROR [controller.(*Logic).GetRobotLowerFriendList](robot_endpoint.go:224) GetRobotLowerFriendList json decode error: json: cannot unmarshal string into Go value of type int64
+2017/02/17 10:47:11 ERROR [controller.(*Logic).GetRobotLowerFriendList](robot_endpoint.go:224) GetRobotLowerFriendList json decode error: json: cannot unmarshal string into Go value of type int64
+2017/02/17 10:47:17 ERROR [controller.(*Logic).GetRobotLowerFriendList](robot_endpoint.go:224) GetRobotLowerFriendList json decode error: json: cannot unmarshal string into Go value of type int64
+2017/02/17 10:47:53 ERROR [controller.(*Logic).GetRobotLowerFriendList](robot_endpoint.go:224) GetRobotLowerFriendList json decode error: json: cannot unmarshal string into Go value of type int64
+2017/02/17 10:49:15 ERROR [controller.(*Logic).GetRobotLowerFriendList](robot_endpoint.go:224) GetRobotLowerFriendList json decode error: json: cannot unmarshal string into Go value of type int64
+2017/02/17 10:51:18 ERROR [controller.(*Logic).GetRobotLowerFriendList](robot_endpoint.go:224) GetRobotLowerFriendList json decode error: json: cannot unmarshal string into Go value of type int64
+2017/02/17 10:51:48 ERROR [controller.(*Logic).GetRobotLowerFriendList](robot_endpoint.go:224) GetRobotLowerFriendList json decode error: json: cannot unmarshal string into Go value of type int64
+2017/02/17 10:54:49 ERROR [controller.(*Logic).GetRobotLowerFriendList](robot_endpoint.go:224) GetRobotLowerFriendList json decode error: json: cannot unmarshal string into Go value of type int64
+2017/02/17 10:58:15 ERROR [controller.(*Logic).GetRobotLowerFriendList](robot_endpoint.go:224) GetRobotLowerFriendList json decode error: json: cannot unmarshal string into Go value of type int64
+2017/02/17 10:58:53 ERROR [controller.(*Logic).GetRobotLowerFriendList](robot_endpoint.go:224) GetRobotLowerFriendList json decode error: json: cannot unmarshal string into Go value of type int64
+2017/02/17 11:03:35 ERROR [controller.(*Logic).GetRobotLowerFriendList](robot_endpoint.go:224) GetRobotLowerFriendList json decode error: json: cannot unmarshal string into Go value of type int64
+2017/02/17 11:04:29 ERROR [controller.(*Logic).GetRobotLowerFriendList](robot_endpoint.go:224) GetRobotLowerFriendList json decode error: json: cannot unmarshal string into Go value of type int64
+2017/02/17 11:07:41 ERROR [controller.(*Logic).GetRobotLowerFriendList](robot_endpoint.go:224) GetRobotLowerFriendList json decode error: json: cannot unmarshal string into Go value of type int64
+2017/02/17 11:10:19 ERROR [models.CreateRobotFriendList](account.go:177) create robot friend list error: Error 1062: Duplicate entry 'Mr.REE-?' for key 'UQE_robot_friend_5_ROBOT_FRIEND'
+2017/02/17 11:10:19 ERROR [controller.(*Logic).RobotSaveFriends](robot_endpoint.go:52) Error robot save friends error: Error 1062: Duplicate entry 'Mr.REE-?' for key 'UQE_robot_friend_5_ROBOT_FRIEND'
+2017/02/17 11:10:19 ERROR [models.CreateRobotFriendList](account.go:177) create robot friend list error: Error 1062: Duplicate entry 'Mr.REE-jason' for key 'UQE_robot_friend_5_ROBOT_FRIEND'
+2017/02/17 11:10:19 ERROR [controller.(*Logic).RobotSaveFriends](robot_endpoint.go:52) Error robot save friends error: Error 1062: Duplicate entry 'Mr.REE-jason' for key 'UQE_robot_friend_5_ROBOT_FRIEND'
+2017/02/17 11:10:20 ERROR [models.CreateRobotFriendList](account.go:177) create robot friend list error: Error 1406: Data too long for column 'name' at row 19
+2017/02/17 11:10:20 ERROR [controller.(*Logic).RobotSaveFriends](robot_endpoint.go:52) Error robot save friends error: Error 1406: Data too long for column 'name' at row 19
+2017/02/17 11:10:20 ERROR [models.CreateRobotFriendList](account.go:177) create robot friend list error: Error 1062: Duplicate entry 'Mr.REE-小吉' for key 'UQE_robot_friend_5_ROBOT_FRIEND'
+2017/02/17 11:10:20 ERROR [controller.(*Logic).RobotSaveFriends](robot_endpoint.go:52) Error robot save friends error: Error 1062: Duplicate entry 'Mr.REE-小吉' for key 'UQE_robot_friend_5_ROBOT_FRIEND'
+2017/02/17 11:10:20 ERROR [models.CreateRobotFriendList](account.go:177) create robot friend list error: Error 1062: Duplicate entry 'Mr.REE-jimmy' for key 'UQE_robot_friend_5_ROBOT_FRIEND'
+2017/02/17 11:10:20 ERROR [controller.(*Logic).RobotSaveFriends](robot_endpoint.go:52) Error robot save friends error: Error 1062: Duplicate entry 'Mr.REE-jimmy' for key 'UQE_robot_friend_5_ROBOT_FRIEND'
+2017/02/17 11:10:20 ERROR [models.CreateRobotFriendList](account.go:177) create robot friend list error: Error 1062: Duplicate entry 'Mr.REE-DaviD' for key 'UQE_robot_friend_5_ROBOT_FRIEND'
+2017/02/17 11:10:20 ERROR [controller.(*Logic).RobotSaveFriends](robot_endpoint.go:52) Error robot save friends error: Error 1062: Duplicate entry 'Mr.REE-DaviD' for key 'UQE_robot_friend_5_ROBOT_FRIEND'
+2017/02/17 11:10:20 ERROR [models.CreateRobotFriendList](account.go:177) create robot friend list error: Error 1062: Duplicate entry 'Mr.REE-西瓜<span class="emoji emoji1f349"></span>' for key 'UQE_robot_friend_5_ROBOT_FRIEND'
+2017/02/17 11:10:20 ERROR [controller.(*Logic).RobotSaveFriends](robot_endpoint.go:52) Error robot save friends error: Error 1062: Duplicate entry 'Mr.REE-西瓜<span class="emoji emoji1f349"></span>' for key 'UQE_robot_friend_5_ROBOT_FRIEND'
+2017/02/17 11:11:24 ERROR [controller.(*Logic).GetRobotLowerFriendList](robot_endpoint.go:224) GetRobotLowerFriendList json decode error: json: cannot unmarshal string into Go value of type int64
+2017/02/17 11:12:42 ERROR [controller.(*Logic).GetRobotLowerFriendList](robot_endpoint.go:224) GetRobotLowerFriendList json decode error: json: cannot unmarshal string into Go value of type int64
+2017/02/17 11:12:47 ERROR [controller.(*Logic).GetRobotLowerFriendList](robot_endpoint.go:224) GetRobotLowerFriendList json decode error: json: cannot unmarshal string into Go value of type int64
+2017/02/17 11:12:54 ERROR [controller.(*Logic).GetRobotLowerFriendList](robot_endpoint.go:224) GetRobotLowerFriendList json decode error: json: cannot unmarshal string into Go value of type int64
+2017/02/17 11:14:01 ERROR [controller.(*Logic).GetRobotLowerFriendList](robot_endpoint.go:224) GetRobotLowerFriendList json decode error: json: cannot unmarshal string into Go value of type int64
+2017/02/17 11:14:06 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[Mr.REE] send msg[西瓜\u003cspan class="emoji emoji1f349"\u003e\u003c/] to friend[文件传输助手]
+2017/02/17 11:14:06 ERROR [controller.(*Logic).GetRobotLowerFriendList](robot_endpoint.go:224) GetRobotLowerFriendList json decode error: json: cannot unmarshal string into Go value of type int64
+2017/02/17 11:14:34  INFO [models.CreateRobotChat](chat.go:38) create robot chat robot[Mr.REE] user[老婆] content[好像也是1年兑换一般] success.
+2017/02/17 11:14:46  INFO [models.CreateRobotChat](chat.go:38) create robot chat robot[Mr.REE] user[老婆] content[跟之前那次的条件一样] success.
+2017/02/17 11:14:49  INFO [models.CreateRobotChat](chat.go:38) create robot chat robot[Mr.REE] user[温莎<span class="emoji emoji1f42f"></span><span class="emoji emoji1f411"></span>] content[评估没通过呢] success.
+2017/02/17 11:15:10  INFO [models.CreateRobotChat](chat.go:38) create robot chat robot[Mr.REE] user[便宜淘] content[您好,您的 2级下线[杨闺闺] 订单 3140**** 系统已生成, 该下线订单为您返利待确认积分约为 2 积分] success.
+2017/02/17 11:15:25 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[Mr.REE] send msg[一年兑四分之一] to friend[老婆]
+2017/02/17 11:15:27 DEBUG [controller.(*Logic).AddRobotChat](robot_logic.go:48) robot[Mr.REE] send msg[？] to friend[老婆]
+2017/02/17 11:15:58  INFO [models.CreateRobotChat](chat.go:38) create robot chat robot[Mr.REE] user[老婆] content[不知道呢，忘记问了] success.
+2017/02/17 11:18:57 ERROR [controller.(*Logic).GetRobotLowerFriendList](robot_endpoint.go:224) GetRobotLowerFriendList json decode error: json: cannot unmarshal string into Go value of type int64
